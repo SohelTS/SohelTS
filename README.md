@@ -85,23 +85,6 @@ Analyzed 6 months of purchase, sales, and inventory data across multiple vendors
 
 ---
 
-## Experience
-
-**Web Development Intern** — Oasis Infobyte *(Dec 2024 – Jan 2025)*
-- Rebuilt responsive UI layouts for 3 web modules using HTML/CSS and JavaScript
-- Resolved cross-device rendering issues and standardized component behavior across mobile and desktop breakpoints
-- Reduced average page layout inconsistency complaints (tracked in internal review) to zero by auditing and refactoring legacy CSS
-
----
-
-## Education
-
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| B.E. in Information Technology | Dr. D.Y. Patil Institute of Technology, Pune | CGPA: 9.14 / 10 | 2022 – 2026 |
-| Class XII | Dayanand Junior Science College, Latur | 92.67% | 2019 – 2021 |
-
----
 
 ## Certifications & Achievements
 
