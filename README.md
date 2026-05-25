@@ -13,13 +13,14 @@
 
 ---
 
-## 💫 About Me
-Hey, I'm Sohel Shaikh 👋
-Full-stack developer by craft. Data enthusiast by passion. Builder by nature.
-I engineer end-to-end web applications and extract meaning from data —
-because great products are built on both clean code and clear insights. 🚀
-🏆 Winner, Allianz Technology Tech Championship 2024
+## About Me
 
+Hey, I'm **Sohel Shaikh** 👋
+
+Full-stack developer by craft. Data enthusiast by passion. Builder by nature. I engineer end-to-end web applications and extract meaning from data
+because great products are built on both clean code and clear insights.
+
+🏆 **Winner, Allianz Technology Tech Championship 2024**
 ---
 
 ## 🛠️ Tech Stack
@@ -68,7 +69,7 @@ because great products are built on both clean code and clear insights. 🚀
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sohelts&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelts&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohelTS&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
