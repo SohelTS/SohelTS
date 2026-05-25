@@ -17,7 +17,8 @@
 
 Hey, I'm **Sohel Shaikh** 👋
 
-Full-stack developer by craft. Data enthusiast by passion. Builder by nature. I engineer end-to-end web applications and extract meaning from data
+Full-stack developer by craft. Data enthusiast by passion. 
+I engineer end-to-end web applications and extract meaning from data
 because great products are built on both clean code and clear insights.
 
 🏆 **Winner, Allianz Technology Tech Championship 2024**
